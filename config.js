@@ -5,7 +5,7 @@ global.calender = d.toLocaleDateString('id')
 
 //General Settings 
 global.prefa = ['','!','.',',','🐤','🗿']
-//global.ownNumb = '' //ganti aj klo mau
+global.ownNumb = '6282393734303' //ganti aj klo mau
 global.NamaOwner = 'thezetsuboxygen' //gausah diganti 
 global.sessionName = 'sesi'
 global.namabot = 'Zetsubo - md' //ganti aj klo mau
