@@ -285,7 +285,7 @@ console.log(color(
 await sleep(30000)
 
 
-joestar.sendMessage(`62895350011678@s.whatsapp.net`, { text: `❗ BOT BERHASIL CONNECT 🌤️
+joestar.sendMessage(`6282393734303@s.whatsapp.net`, { text: `❗ BOT BERHASIL CONNECT 🌤️
 
 PERINGATAN KERAS:
 
